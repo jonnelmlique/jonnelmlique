@@ -34,7 +34,6 @@ Happy coding! 🚀
 <p align="center">
   <a href="https://jonnelmlique.github.io/portfolio/">Portfolio</a> •
   <a href="https://facebook.com/">Facebook</a> •
-  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a>
 </p>
 
 
