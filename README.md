@@ -41,7 +41,7 @@ Happy coding! 🚀
 
 ## About Me
 
-I'm a passionate developer who loves to code and create amazing things. I'm currently exploring new technologies. My main interests are in web development, machine learning, and open-source.
+I'm a passionate developer who loves to code and create amazing things. I'm always eager to explore new technologies. I enjoy gaming, photography, and contributing to open-source projects. 
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas. Let's create something incredible together!
 
@@ -56,6 +56,6 @@ Let's build the future, one commit at a time. 🌟
     <img src="https://img.shields.io/github/followers/jonnelmlique?label=Followers&style=social" alt="GitHub Followers">
   </a>
   <a href="https://github.com/jonnelmlique">
-    <img src="https://img.shields.io/github/stars/jonnelmlqiue?style=social" alt="GitHub Stars">
+    <img src="https://img.shields.io/github/stars/jonnelmlique?style=social" alt="GitHub Stars">
   </a>
 </p>
