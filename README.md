@@ -53,9 +53,9 @@ Let's build the future, one commit at a time. 🌟
 
 <p align="center">
   <a href="https://github.com/jonnelmlique">
-    <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/jonnelmlique?label=Followers&style=social" alt="GitHub Followers">
   </a>
   <a href="https://github.com/jonnelmlique">
-    <img src="https://img.shields.io/github/stars/your-username?style=social" alt="GitHub Stars">
+    <img src="https://img.shields.io/github/stars/jonnelmlqiue?style=social" alt="GitHub Stars">
   </a>
 </p>
