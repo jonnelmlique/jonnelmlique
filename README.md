@@ -40,9 +40,13 @@ Happy coding! 🚀
 
 ## About Me
 
-I'm a passionate developer who loves to code and create amazing things. I'm always eager to explore new technologies. I enjoy gaming, photography, and contributing to open-source projects. 
+Hi Everyone! I'm Jonnel M. Lique. What I love most about web development is the continuous learning and problem-solving aspect. I'm always eager to explore new technologies and stay updated with the latest trends in the field. Outside of coding, I enjoy gaming, photography.
 
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas. Let's create something incredible together!
+Feel free to explore my portfolio to see some of the exciting projects I've worked on.
+
+<!-- I'm a passionate developer who loves to code and create amazing things. I'm always eager to explore new technologies. I enjoy gaming, photography, and contributing to open-source projects. 
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas. Let's create something incredible together! -->
 
 ## 🚀 Happy Coding!
 
