@@ -11,23 +11,24 @@
 
 ## About Me
 
-Hi Everyone! I'm Jonnel M. Lique. What I love most about web development is the continuous learning and problem-solving aspect. I'm always eager to explore new technologies and stay updated with the latest trends in the field. Outside of coding, I enjoy gaming, photography, and designing.
+Hey there! I'm Jonnel M. Lique, and I'm passionate about web development. I thrive on the continuous learning and problem-solving aspect of coding, always eager to explore new technologies and stay updated with the latest trends in the field. When I'm not immersed in code, you'll find me indulging in my interests of gaming, photography, and design.
 
-Feel free to explore my portfolio to see some of the exciting projects I've worked on.
+Feel free to explore my portfolio to discover some of the exciting projects I've worked on.
 
 ## 🚀 Happy Coding!
 
 Let's build the future, one commit at a time. 🌟
 
-Feel free to check out my Peoject.
+Check out my latest project:
 [Stellar Grades](https://jonnelmlique.github.io/StellarGrades/index.html)
+
 ---
 
 ## Design Aesthetic 🎨
 
-I believe in the power of design to elevate user experiences. My passion extends beyond coding to creating visually appealing and user-friendly designs. The perfect blend of functionality and aesthetics is what I strive for in every project.
+I strongly believe in the power of design to enhance user experiences. My passion extends beyond coding to creating visually appealing and user-friendly designs. The perfect blend of functionality and aesthetics is what I strive for in every project.
 
-Feel free to check out my [portfolio](https://jonnelmlique.github.io/portfolio/) for a glimpse of my design work.
+Explore my [portfolio](https://jonnelmlique.github.io/portfolio/) for a glimpse of my design work.
 
 ---
 
