@@ -31,9 +31,6 @@ I strongly believe in the power of design to enhance user experiences. My passio
 Explore my [portfolio](https://jonnelmlique.github.io/portfolio/) for a glimpse of my design work.
 
 ---
-<p align="center">
-  ![Visitor Count](https://profile-counter.glitch.me/{jonnelmlique}/count.svg)
-</p>
 
 <p align="center">
   <a href="https://github.com/jonnelmlique">
@@ -42,4 +39,8 @@ Explore my [portfolio](https://jonnelmlique.github.io/portfolio/) for a glimpse 
   <a href="https://github.com/jonnelmlique">
     <img src="https://img.shields.io/github/stars/jonnelmlique?style=social" alt="GitHub Stars">
   </a>
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/jonnelmlique/count.svg" alt="Visitor Count">
 </p>
