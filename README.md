@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jonnelmlique.github.io/portfolio/">Portfolio</a> •
+  <a href="#">Portfolio</a> •
   <a href="https://facebook.com/">Facebook</a>
 </p>
 
@@ -28,7 +28,7 @@ Check out my latest project:
 
 I strongly believe in the power of design to enhance user experiences. My passion extends beyond coding to creating visually appealing and user-friendly designs. The perfect blend of functionality and aesthetics is what I strive for in every project.
 
-Explore my [portfolio](https://jonnelmlique.github.io/portfolio/) for a glimpse of my design work.
+Explore my [portfolio](#) for a glimpse of my design work.
 
 ---
 
