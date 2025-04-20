@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-jonnel-liques-projects.vercel.app/">Portfolio</a> •
+  <a href="https://jonnelmlique.vercel.app/">Portfolio</a> •
   <a href="https://facebook.com/">Facebook</a>
 </p>
 
