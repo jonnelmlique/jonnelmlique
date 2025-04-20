@@ -28,7 +28,7 @@ Check out my latest project:
 
 I strongly believe in the power of design to enhance user experiences. My passion extends beyond coding to creating visually appealing and user-friendly designs. The perfect blend of functionality and aesthetics is what I strive for in every project.
 
-Explore my [portfolio](#) for a glimpse of my design work.
+Explore my [portfolio](https://jonnelmlique.vercel.app/) for a glimpse of my design work.
 
 ---
 
