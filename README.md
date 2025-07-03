@@ -37,13 +37,13 @@ When I'm not immersed in code, you'll find me indulging in my interests of **gam
 ### 🚀 Mastered Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,js,vue,angular,mysql,git,vercel&theme=dark" alt="Mastered Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,js,vue,angular,mysql,git,digitalocean,vercel&theme=dark" alt="Mastered Tech Stack" />
 </div>
 
 ### 🌟 Other Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=codeigniter,html,css,react,nextjs,bootstrap,tailwind,vite,postgres,github,bitbucket&theme=dark" alt="Other Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=codeigniter,html,css,react,bootstrap,nextjs,vite,tailwind,postgres,github,bitbucket&theme=dark" alt="Other Tech Stack" />
 </div>
 
 ---
