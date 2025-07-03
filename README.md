@@ -1,18 +1,46 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=400&lines=Hi!+I'm+Jonnel+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB" alt="Typing SVG" />
-</div>
+<h1 align="center">👋 Hi, I'm Jonnel M. Lique!</h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="200"/>
-</div>
+<p align="center">
+  Welcome to my GitHub profile.
+</p>
 
-## 🚀 Tech Stack
-`JavaScript` `React` `HTML` `CSS` `Git`
+<p align="center">
+  <a href="https://jonnelmlique.vercel.app/">Portfolio</a> •
+  <a href="https://facebook.com/">Facebook</a>
+</p>
 
-## 🔗 Links
-<div align="center">
-  <a href="https://jonnelmlique.vercel.app/">🌐 Portfolio</a> • 
-  <a href="https://jonnelmlique.github.io/StellarGrades/index.html">🎯 Latest Project</a>
-</div>
+## About Me
 
+Hey there! I'm Jonnel M. Lique, and I'm passionate about web development. I thrive on the continuous learning and problem-solving aspect of coding, always eager to explore new technologies and stay updated with the latest trends in the field. When I'm not immersed in code, you'll find me indulging in my interests of gaming, photography, and design.
 
+Feel free to explore my portfolio to discover some of the exciting projects I've worked on.
+
+## 🚀 Happy Coding!
+
+Let's build the future, one commit at a time. 🌟
+
+Check out my latest project:
+[Stellar Grades](https://jonnelmlique.github.io/StellarGrades/index.html)
+
+---
+
+## Design Aesthetic 🎨
+
+I strongly believe in the power of design to enhance user experiences. My passion extends beyond coding to creating visually appealing and user-friendly designs. The perfect blend of functionality and aesthetics is what I strive for in every project.
+
+Explore my [portfolio](https://jonnelmlique.vercel.app/) for a glimpse of my design work.
+
+---
+
+<p align="center">
+  <a href="https://github.com/jonnelmlique">
+    <img src="https://img.shields.io/github/followers/jonnelmlique?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/jonnelmlique">
+    <img src="https://img.shields.io/github/stars/jonnelmlique?style=social" alt="GitHub Stars">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/jonnelmlique/count.svg" alt="Visitor Count">
+</p>
