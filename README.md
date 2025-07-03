@@ -26,10 +26,16 @@ When I'm not immersed in code, you'll find me indulging in my interests of **gam
 
 ---
 
-## 🛠️ Mastered Technologies
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,js,vue,angular,react,nextjs,html,css,bootstrap,tailwind,vite,mysql,postgres,git,github,vercel,codeigniter&theme=dark" alt="Tech Stack" />
+  <h3>💼 Here's what I specialize in</h3>
+</div>
+
+### 🚀 Mastered Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,js,vue,angular,mysql,git,vercel&theme=dark" alt="Mastered Tech Stack" />
 </div>
 
 <details>
@@ -40,8 +46,6 @@ When I'm not immersed in code, you'll find me indulging in my interests of **gam
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter">
-  <img src="https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=white" alt="Filament">
 </p>
 </details>
 
@@ -52,10 +56,50 @@ When I'm not immersed in code, you'll find me indulging in my interests of **gam
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+</p>
+</details>
+
+<details>
+<summary>🗄️ <strong>Database Management</strong></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+</details>
+
+<details>
+<summary>☁️ <strong>Version Control & Cloud Services</strong></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="Digital Ocean">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+</p>
+</details>
+
+### 🌟 Other Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=codeigniter,html,css,react,nextjs,bootstrap,tailwind,vite,postgres,github&theme=dark" alt="Other Tech Stack" />
+</div>
+
+<details>
+<summary>🔧 <strong>Backend Development</strong></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter">
+  <img src="https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=white" alt="Filament">
+</p>
+</details>
+
+<details>
+<summary>🎨 <strong>Frontend Development</strong></summary>
+<br>
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
 </p>
 </details>
 
@@ -73,20 +117,16 @@ When I'm not immersed in code, you'll find me indulging in my interests of **gam
 <summary>🗄️ <strong>Database Management</strong></summary>
 <br>
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 </details>
 
 <details>
-<summary>☁️ <strong>Version Control & Cloud Services</strong></summary>
+<summary>☁️ <strong>Version Control</strong></summary>
 <br>
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket">
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="Digital Ocean">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </p>
 </details>
 
@@ -128,7 +168,7 @@ My personal portfolio showcasing my projects and skills.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonnelmlique&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E9BF0&ring=2E9BF0&fire=FF6B6B&currStreakLabel=2E9BF0&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=jonnelmlique&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
