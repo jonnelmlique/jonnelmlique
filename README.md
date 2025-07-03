@@ -1,46 +1,45 @@
-<h1 align="center">👋 Hi, I'm Jonnel M. Lique!</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Jonnel+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;Designer+%F0%9F%8E%A8;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  Welcome to my GitHub profile.
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300"/>
+</div>
 
-<p align="center">
-  <a href="https://jonnelmlique.vercel.app/">Portfolio</a> •
-  <a href="https://facebook.com/">Facebook</a>
-</p>
+## 🎯 What I Do
 
-## About Me
+```javascript
+const jonnel = {
+    code: ["JavaScript", "HTML", "CSS", "React"],
+    tools: ["VS Code", "Git", "Figma"],
+    hobbies: ["Gaming 🎮", "Photography 📸", "Design 🎨"],
+    currentProject: "Building awesome web experiences"
+};
+```
 
-Hey there! I'm Jonnel M. Lique, and I'm passionate about web development. I thrive on the continuous learning and problem-solving aspect of coding, always eager to explore new technologies and stay updated with the latest trends in the field. When I'm not immersed in code, you'll find me indulging in my interests of gaming, photography, and design.
+## 🌟 Quick Links
 
-Feel free to explore my portfolio to discover some of the exciting projects I've worked on.
+<div align="center">
+  <a href="https://jonnelmlique.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://jonnelmlique.github.io/StellarGrades/index.html">
+    <img src="https://img.shields.io/badge/Latest_Project-4CAF50?style=for-the-badge&logo=rocket&logoColor=white"/>
+  </a>
+</div>
 
-## 🚀 Happy Coding!
+## 📊 GitHub Stats
 
-Let's build the future, one commit at a time. 🌟
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonnelmlique&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
 
-Check out my latest project:
-[Stellar Grades](https://jonnelmlique.github.io/StellarGrades/index.html)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonnelmlique&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-## Design Aesthetic 🎨
-
-I strongly believe in the power of design to enhance user experiences. My passion extends beyond coding to creating visually appealing and user-friendly designs. The perfect blend of functionality and aesthetics is what I strive for in every project.
-
-Explore my [portfolio](https://jonnelmlique.vercel.app/) for a glimpse of my design work.
-
----
-
-<p align="center">
-  <a href="https://github.com/jonnelmlique">
-    <img src="https://img.shields.io/github/followers/jonnelmlique?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/jonnelmlique">
-    <img src="https://img.shields.io/github/stars/jonnelmlique?style=social" alt="GitHub Stars">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/jonnelmlique/count.svg" alt="Visitor Count">
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
